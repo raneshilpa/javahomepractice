@@ -1,20 +1,22 @@
-package ListConcepts;
+package com.javacore;
 
-import io.opentelemetry.exporter.logging.SystemOutLogExporter;
+
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
 public class ArrayListConcepts {
     public static void main(String[] args) {
-     //   int a[] = new int[4]; static array //to resolve array out of bound exception we use dynamic array
-       // Dynamic array  -ArrayList
-       // adding duplicate values
-       //it maintain insertion order.
-       //it is not synchronized
-       // allow random acess to fetch the element because it store the values on the basis of index
-
-        ArrayList arr = new ArrayList();
+    }
+    }
+        //   int a[] = new int[4]; static array //to resolve array out of bound exception we use dynamic array
+        // Dynamic array  -ArrayList
+        // adding duplicate values
+        //it maintain insertion order.
+        //it is not synchronized
+        // allow random acess to fetch the element because it store the values on the basis of index
+/*
+       ArrayList arr = new ArrayList();
         arr.add(20); //0
         arr.add(30); //1
         arr.add(40); //2
@@ -117,3 +119,4 @@ public class ArrayListConcepts {
 
     }
 }
+ */
