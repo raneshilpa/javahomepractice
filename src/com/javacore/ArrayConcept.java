@@ -1,4 +1,4 @@
-package javabasics;
+package com.javacore;
 
 public class ArrayConcept {
 
